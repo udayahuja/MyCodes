@@ -1,0 +1,1 @@
+When we write scanf("%7s",str) this means that while taking an input in a string it will only store first 7 charcters in the string and discard rest of the charecters. If the size of string is less than or equal to seven it will store all those charecters in the string.
